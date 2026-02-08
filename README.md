@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hey, I am César Uriarte
+  # Hey, I am César Uriarte ✌️
 
   <p>
     <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -27,6 +27,9 @@
 
 <a href="https://github.com/cjuriartec/node-suitecrm-client">
   <img src="https://img.shields.io/github/stars/cjuriartec/node-suitecrm-client?style=social&label=node-suitecrm-client" alt="node-suitecrm-client stars"/>
+</a>
+<a href="https://www.npmjs.com/package/suitecrm-client">
+  <img src="https://img.shields.io/npm/v/suitecrm-client?style=flat-square&logo=npm&logoColor=white&color=CC3534" alt="npm version"/>
 </a>
 
 A lightweight, **strongly-typed** Node.js client for SuiteCRM API v4.1. Designed with Clean Architecture and strict type safety.
