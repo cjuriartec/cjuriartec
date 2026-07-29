@@ -1,0 +1,137 @@
+/* Harvard CV — ATS-friendly, single column, print-ready */
+@page {
+  size: Letter;
+  margin: 0.6in 0.7in 0.6in 0.7in;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10pt;
+}
+
+body {
+  font-family: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
+  color: #111;
+  background: #fff;
+  line-height: 1.32;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+}
+
+/* Name — only centered element in header */
+h1 {
+  font-size: 16.5pt;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.04em;
+  margin: 0 0 0.12em 0;
+  text-transform: uppercase;
+  color: #000;
+}
+
+/* Role + contact: only the two paragraphs right after the name */
+h1 + p,
+h1 + p + p {
+  text-align: center;
+  margin: 0.08em 0;
+  font-size: 9.5pt;
+  line-height: 1.4;
+}
+
+h1 + p {
+  margin-bottom: 0.25em;
+  font-size: 10.5pt;
+}
+
+h1 + p strong {
+  font-weight: 600;
+}
+
+/* Body content — always left-aligned (overrides any header centering) */
+h2,
+h3,
+h2 ~ p,
+h2 ~ ul,
+h3 + p,
+ul,
+li {
+  text-align: left !important;
+}
+h2 {
+  font-size: 11pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0.7em 0 0.28em 0;
+  padding-bottom: 0.1em;
+  border-bottom: 1.15pt solid #111;
+  color: #000;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 10pt;
+  font-weight: 700;
+  margin: 0.45em 0 0.08em 0;
+  color: #000;
+  page-break-after: avoid;
+}
+
+/* Company, dates, education institution, skills lines */
+h3 + p,
+h3 + p + p {
+  text-align: left;
+  margin: 0.05em 0;
+}
+
+p {
+  margin: 0.15em 0;
+  orphans: 3;
+  widows: 3;
+}
+
+strong {
+  font-weight: 700;
+}
+
+ul {
+  margin: 0.2em 0 0.35em 0;
+  padding-left: 1.15em;
+}
+
+li {
+  margin: 0.12em 0;
+  padding-left: 0.15em;
+}
+
+li + li {
+  margin-top: 0.1em;
+}
+
+a {
+  color: #111;
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  display: none;
+}
+
+/* Keep job blocks together when possible */
+h3,
+h3 + p,
+h3 + p + p {
+  page-break-inside: avoid;
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+}
