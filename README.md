@@ -25,14 +25,27 @@
 
 ### Featured Work
 
+**[NexoSign](https://github.com/cjuriartec/nexosign)** — desktop PDF signing with a qualified certificate.
+
+<a href="https://github.com/cjuriartec/nexosign">
+  <img src="https://img.shields.io/github/stars/cjuriartec/nexosign?style=social&label=nexosign" alt="nexosign stars"/>
+</a>
+<img src="https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri 2" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+
+Local-first **PAdES** signing via **PKCS#11** (smart cards / DNIe / HSM). PIN never leaves the machine. Loopback API so a web portal can send an intent and the user finishes the wizard on desktop.
+
+<br />
+
+**[suitecrm-client](https://github.com/cjuriartec/node-suitecrm-client)** — typed Node.js client for SuiteCRM API v4.1.
+
 <a href="https://github.com/cjuriartec/node-suitecrm-client">
   <img src="https://img.shields.io/github/stars/cjuriartec/node-suitecrm-client?style=social&label=node-suitecrm-client" alt="node-suitecrm-client stars"/>
 </a>
 <a href="https://www.npmjs.com/package/suitecrm-client">
   <img src="https://img.shields.io/npm/v/suitecrm-client?style=flat-square&logo=npm&logoColor=white&color=CC3534" alt="npm version"/>
 </a>
-
-A lightweight, **strongly-typed** Node.js client for SuiteCRM API v4.1. Designed with Clean Architecture and strict type safety.
 
 <br />
 
