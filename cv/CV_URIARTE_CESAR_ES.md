@@ -1,9 +1,9 @@
 # CÉSAR JOSÉ URIARTE CHAVESTA
 
-**Desarrollador Full Stack | Ingeniería de Software | Sector Público**
+**Desarrollador Full Stack | Angular · .NET 8 | Sector Público**
 
 Lima, Perú · +51 918 141 264 · uriartechavesta@gmail.com  
-linkedin.com/in/uriarte-cesar · cesaruriarte.vercel.app
+linkedin.com/in/cjuriartec · github.com/cjuriartec
 
 ---
 
@@ -23,7 +23,7 @@ Marzo 2024 – Octubre 2025
 - Construí aplicaciones web y Progressive Web Apps (PWA) con Angular 20, garantizando acceso multiplataforma y usabilidad en entornos de trabajo institucionales.
 - Implementé clasificación automática de proyectos SEIA mediante algoritmo K-means, optimizando la priorización y análisis de expedientes.
 - Automatizé tareas operativas con bots basados en OCR (Gemini 2.0 Flash), reduciendo el tiempo de procesamiento manual.
-- Logré una reducción de 28 veces en el tiempo de procesamiento de geolocalización, mejorando el rendimiento de flujos críticos.
+- Optimicé la validación de geolocalización en flujos críticos: el procesamiento quedó 28 veces más rápido.
 - Elaboré y mantuve pruebas unitarias con Karma y Jasmine, fortaleciendo la calidad y estabilidad del software.
 - Participé en equipos ágiles (Scrum), asegurando entregas iterativas alineadas a objetivos institucionales.
 
@@ -75,10 +75,13 @@ Marzo 2018 – Enero 2023
 Stack: Machine Learning (K-means) + Angular 20 + .NET 8 + Oracle. Automatización del análisis y clasificación de proyectos SEIA.
 
 **Sistema de gestión de expedientes técnicos**  
-Aplicación institucional: rfitac.mtc.gob.pe. Soporte al flujo de gestión documental y evaluación técnica.
+Aplicación institucional: rfitac.mtc.gob.pe. Angular 20 + .NET 8 + Oracle. Duplicó la velocidad de evaluación de fichas técnicas ambientales.
 
-**Portafolio profesional**  
-Sitio web personal: cesaruriarte.vercel.app. Presentación de experiencia, proyectos y competencias técnicas.
+**NexoSign**  
+github.com/cjuriartec/nexosign. App de escritorio (Tauri 2, Rust, SvelteKit) para firma PAdES de PDFs con certificado cualificado: PKCS#11, PIN local y API loopback para integrar portales web.
+
+**Cliente Node.js para SuiteCRM**  
+github.com/cjuriartec/node-suitecrm-client. Cliente tipado para SuiteCRM API v4.1 (npm: suitecrm-client).
 
 ---
 

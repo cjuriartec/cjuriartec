@@ -1,9 +1,9 @@
 # CÉSAR JOSÉ URIARTE CHAVESTA
 
-**Full Stack Developer | Software Engineering | Public Sector**
+**Full Stack Developer | Angular · .NET 8 | Public Sector**
 
 Lima, Peru · +51 918 141 264 · uriartechavesta@gmail.com  
-linkedin.com/in/uriarte-cesar · cesaruriarte.vercel.app
+linkedin.com/in/cjuriartec · github.com/cjuriartec
 
 ---
 
@@ -23,7 +23,7 @@ March 2024 – October 2025
 - Built web applications and Progressive Web Apps (PWA) with Angular 20, ensuring cross-platform access and usability in institutional work environments.
 - Implemented automatic SEIA project classification using a K-means algorithm, improving dossier prioritization and analysis.
 - Automated operational tasks with OCR-based bots (Gemini 2.0 Flash), reducing manual processing time.
-- Achieved a 28x reduction in geolocation processing time, improving performance of critical workflows.
+- Optimized geolocation validation in critical workflows, making processing 28× faster.
 - Created and maintained unit tests with Karma and Jasmine, strengthening software quality and stability.
 - Collaborated in agile teams (Scrum), delivering iterative releases aligned with institutional objectives.
 
@@ -75,10 +75,13 @@ March 2018 – January 2023
 Stack: Machine Learning (K-means) + Angular 20 + .NET 8 + Oracle. Automation of SEIA project analysis and classification.
 
 **Technical File Management System**  
-Institutional application: rfitac.mtc.gob.pe. Support for document management and technical evaluation workflows.
+Institutional application: rfitac.mtc.gob.pe. Angular 20 + .NET 8 + Oracle. Doubled the evaluation speed of environmental technical files.
 
-**Professional Portfolio**  
-Personal website: cesaruriarte.vercel.app. Showcase of experience, projects, and technical competencies.
+**NexoSign**  
+github.com/cjuriartec/nexosign. Desktop app (Tauri 2, Rust, SvelteKit) for PAdES PDF signing with a qualified certificate: PKCS#11, local PIN, and a loopback API for web portal integration.
+
+**Node.js SuiteCRM client**  
+github.com/cjuriartec/node-suitecrm-client. Strongly typed client for SuiteCRM API v4.1 (npm: suitecrm-client).
 
 ---
 
