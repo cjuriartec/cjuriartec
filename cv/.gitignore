@@ -1,3 +1,6 @@
 # Generated CV exports (PDF/HTML)
 export/
 !export/.gitkeep
+
+# macOS
+.DS_Store

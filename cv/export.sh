@@ -54,9 +54,13 @@ case "${1:-all}" in
   en|EN)
     export_one "${ROOT}/CV_URIARTE_CESAR_EN.md" "en"
     ;;
+  estadistica|ESTADISTICA)
+    export_one "${ROOT}/CV_URIARTE_CESAR_ES_ESTADISTICA.md" "es"
+    ;;
   all|*)
     export_one "${ROOT}/CV_URIARTE_CESAR_ES.md" "es"
     export_one "${ROOT}/CV_URIARTE_CESAR_EN.md" "en"
+    export_one "${ROOT}/CV_URIARTE_CESAR_ES_ESTADISTICA.md" "es"
     ;;
 esac
 

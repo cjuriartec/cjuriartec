@@ -9,7 +9,7 @@ linkedin.com/in/cjuriartec · github.com/cjuriartec
 
 ## Perfil profesional
 
-Desarrollador Full Stack con casi 3 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web institucionales. Especializado en Angular (v14–v20 con Signals), C# .NET 8 y bases de datos relacionales (Oracle, PostgreSQL, MySQL). Experiencia comprobada en el sector público peruano, automatización de procesos, análisis de datos, pruebas unitarias y metodologías ágiles. Orientado a entregar soluciones eficientes, mantenibles y alineadas a los requerimientos técnicos de contrataciones estatales.
+Desarrollador Full Stack con más de 3 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web institucionales. Especializado en Angular (v14–v20 con Signals), C# .NET 8 y bases de datos relacionales (Oracle, PostgreSQL, MySQL). Experiencia comprobada en el sector público peruano, automatización de procesos, análisis de datos, pruebas unitarias y metodologías ágiles. Orientado a entregar soluciones eficientes, mantenibles y alineadas a los requerimientos técnicos de contrataciones estatales.
 
 ---
 
@@ -17,7 +17,7 @@ Desarrollador Full Stack con casi 3 años de experiencia en el diseño, desarrol
 
 ### Desarrollador de Software / Analista de Datos
 **Ministerio de Transportes y Comunicaciones (MTC)** — Lima, Perú  
-Marzo 2024 – Octubre 2025
+Marzo 2024 – Actualidad (septiembre 2026)
 
 - Desarrollé APIs RESTful en C# .NET 8 integradas con Oracle Database para procesos institucionales de evaluación ambiental.
 - Construí aplicaciones web y Progressive Web Apps (PWA) con Angular 20, garantizando acceso multiplataforma y usabilidad en entornos de trabajo institucionales.
@@ -49,7 +49,7 @@ Septiembre 2022 – Marzo 2023
 
 ### Maestría en Ingeniería de Sistemas con mención en Ingeniería de Software
 **Universidad Nacional Mayor de San Marcos (UNMSM)** — Lima, Perú  
-Marzo 2026 – 2027 (en curso | I ciclo)
+Marzo 2026 – 2027 (en curso | II ciclo)
 
 ### Título Profesional / Licenciatura en Ingeniería Ambiental
 **Universidad Nacional Mayor de San Marcos (UNMSM)** — Lima, Perú  

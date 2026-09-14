@@ -9,7 +9,7 @@ linkedin.com/in/cjuriartec · github.com/cjuriartec
 
 ## Professional Summary
 
-Full Stack Developer with nearly 3 years of experience designing, building, and delivering institutional web applications. Specialized in Angular (v14–v20 with Signals), C# .NET 8, and relational databases (Oracle, PostgreSQL, MySQL). Proven experience in the Peruvian public sector, process automation, data analysis, unit testing, and agile methodologies. Focused on delivering efficient, maintainable solutions aligned with technical requirements for government contracting and institutional digital transformation.
+Full Stack Developer with more than 3 years of experience designing, building, and delivering institutional web applications. Specialized in Angular (v14–v20 with Signals), C# .NET 8, and relational databases (Oracle, PostgreSQL, MySQL). Proven experience in the Peruvian public sector, process automation, data analysis, unit testing, and agile methodologies. Focused on delivering efficient, maintainable solutions aligned with technical requirements for government contracting and institutional digital transformation.
 
 ---
 
@@ -17,7 +17,7 @@ Full Stack Developer with nearly 3 years of experience designing, building, and 
 
 ### Software Developer / Data Analyst
 **Ministry of Transport and Communications (MTC)** — Lima, Peru  
-March 2024 – October 2025
+March 2024 – Present (September 2026)
 
 - Developed RESTful APIs in C# .NET 8 integrated with Oracle Database to support institutional environmental evaluation processes.
 - Built web applications and Progressive Web Apps (PWA) with Angular 20, ensuring cross-platform access and usability in institutional work environments.
@@ -49,7 +49,7 @@ September 2022 – March 2023
 
 ### Master's Degree in Systems Engineering with a concentration in Software Engineering
 **Universidad Nacional Mayor de San Marcos (UNMSM)** — Lima, Peru  
-March 2026 – 2027 (in progress | first semester)
+March 2026 – 2027 (in progress | second semester)
 
 ### Bachelor's Degree / Professional Title in Environmental Engineering
 **Universidad Nacional Mayor de San Marcos (UNMSM)** — Lima, Peru  
